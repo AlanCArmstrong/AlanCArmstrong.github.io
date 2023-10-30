@@ -2,7 +2,9 @@
 
 ### Education
 Western Governors University - MS in Data Analytics October 2022: - Expected Graduation: January 2024
-#Rutgers University - BA in Economics: September 2019 - August 2022
+
+Rutgers University - BA in Economics: September 2019 - August 2022
+
 Dwight Morrow Academies at Englewood - Valedictorian: September 2015 - June 2019
 
 ### Work Experience
@@ -24,10 +26,13 @@ working towards a healthy work environment in order to improve morale and produc
 ### Graduate School Projects
 
 Analyzing Churn Data to Determine Which Consumer Groups are at High Risk:
+
 ● Used SQL to compare base rates of turnover in a telecommunications company with those of specific groups
 to identify the most important groups to focus on.
+
 ● Analyzed survey results to determine what was that consumer groups' largest concern in a telecommunications
 company
+
 ([Analyzing_Churn_Risks.txt])
 
 
