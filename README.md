@@ -10,7 +10,7 @@ Dwight Morrow Academies at Englewood - Valedictorian: September 2015 - June 2019
 ### Work Experience
 ##### Blue Ribbon Academy: Data Analyst December 2022 - Current
 
-  ● Communicate financial data in PowerPoints to executives weekly and manage balance sheets \n
+  ● Communicate financial data in PowerPoints to executives weekly and manage balance sheets  
   ● Present learning strategies, analyze client data, and create actionable insights
   ● Adapting dynamic teaching strategies, increasing scores by an average of 27-32% over a semester
 
