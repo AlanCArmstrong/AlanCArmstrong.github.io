@@ -1,11 +1,11 @@
 # Data Scientist
 
 ### Education
-#Western Governors University - MS in Data Analytics October 2022: - Expected Graduation: January 2024
+Western Governors University - MS in Data Analytics October 2022: - Expected Graduation: January 2024
 
-#Rutgers University - BA in Economics: September 2019 - August 2022
+Rutgers University - BA in Economics: September 2019 - August 2022
 
-#Dwight Morrow Academies at Englewood - Valedictorian: September 2015 - June 2019
+Dwight Morrow Academies at Englewood - Valedictorian: September 2015 - June 2019
 
 ### Work Experience
 ##### Blue Ribbon Academy: Data Analyst December 2022 - Current
