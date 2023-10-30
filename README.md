@@ -11,15 +11,12 @@ Dwight Morrow Academies at Englewood - Valedictorian: September 2015 - June 2019
 ##### Blue Ribbon Academy: Data Analyst December 2022 - Current
 
   ● Communicate financial data in PowerPoints to executives weekly and manage balance sheets
-
   ● Present learning strategies, analyze client data, and create actionable insights
-
   ● Adapting dynamic teaching strategies, increasing scores by an average of 27-32% over a semester
 
 ###### Logos Education Group: Founder and Head Teacher August 2022 - December 2022
 
   ● Built and maintained network of dozens of clients and contacted hundreds of potential customers
-
   ● Resolved major disputes between employees through open-minded listening and patience,
     working towards a healthy work environment in order to improve morale and productivity
 
