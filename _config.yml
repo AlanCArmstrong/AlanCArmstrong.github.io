@@ -2,4 +2,4 @@ title: Alan Armstrong
 logo: C:\Users\alana\OneDrive\Desktop\Job Hunt\unnamed.jpg
 #description: text below image
 show_downloads: true
-foreign_theme: minimal-mistakes
+remote_theme: jekyll-theme-yat
