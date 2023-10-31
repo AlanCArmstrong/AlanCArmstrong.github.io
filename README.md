@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Education
-Western Governors University - MS in Data Analytics October 2022: - Expected Graduation: January 2024
+Western Governors University - MS in Data Analytics: October 2022 - Expected Graduation: January 2024
 
 Rutgers University - BA in Economics: September 2019 - August 2022
 
