@@ -22,14 +22,14 @@ Dwight Morrow Academies at Englewood - Valedictorian: September 2015 - June 2019
 
 ### Graduate School Projects
 
+#### Using Machine Learning to Clean Data and Locate Customer Groups:
+([https://github.com/AlanCArmstrong/ML_Cleaning_and_Visualizing])
+
 #### Analyzing Churn Data to Determine Which Consumer Groups are at High Risk:
+([https://github.com/AlanCArmstrong/SQL_Identifying_Predictors_of_Churn])
 
-  ● Used SQL to compare base rates of turnover in a telecommunications company with those of specific groups
-    to identify the most important groups to focus on.  
-  ● Analyzed survey results to determine what was that consumer groups' largest concern in a telecommunications
-    company
-
-([Analyzing_Churn_Risks.txt])
+#### Performing Experiments and Bivariate Visualizations in Python:
+([https://github.com/AlanCArmstrong/Python_Visualizing_and_Experimenting])
 
 
 
