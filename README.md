@@ -34,7 +34,7 @@ Dwight Morrow Academies at Englewood - Valedictorian: September 2015 - June 2019
 
 
 
-### Undergraduate Projects
+### Undergraduate School Projects
 #### Inferior Goods and Luxury Goods: Theory or Practice?
 
   ● Coded data cleaner in Python to align different sources of consumer data into the same format  
